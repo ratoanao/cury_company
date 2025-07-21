@@ -190,7 +190,7 @@ image = Image.open('logo.png')
 st.sidebar.image(image, width = 120)
 
 
-st.sidebar.markdown('# Cury - Company')
+st.sidebar.markdown('# Curry - Company')
 st.sidebar.markdown('## Fastest Delivery in Town')
 st.sidebar.markdown("""---""")
 

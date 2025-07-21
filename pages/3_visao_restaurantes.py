@@ -185,6 +185,7 @@ df1 = clean_code(df)
 
 st.header('Visão Restaurantes')
 
+
 image = Image.open('logo.png')
 st.sidebar.image(image, width = 120)
 

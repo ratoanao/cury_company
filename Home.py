@@ -4,6 +4,7 @@ from PIL import Image
 st.set_page_config(page_title = 'Home', page_icon = '🎲', layout = 'centered')
 
 
+
 image = Image.open('logo.png')
 st.sidebar.image(image, width = 120)
 

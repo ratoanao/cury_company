@@ -4,7 +4,6 @@ from PIL import Image
 st.set_page_config(page_title = 'Home', page_icon = '🎲', layout = 'centered')
 
 
-# image_path = 'ftc_programacao_python/logo.png'
 image = Image.open('logo.png')
 st.sidebar.image(image, width = 120)
 

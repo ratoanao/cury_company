@@ -123,7 +123,6 @@ df1 = clean_code(df)
 
 st.header('Visão Entregadores')
 
-# image_path = 'ftc_programacao_python\logo.png'
 image = Image.open('logo.png')
 st.sidebar.image(image, width = 120)
 
